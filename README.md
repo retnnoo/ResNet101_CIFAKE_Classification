@@ -21,3 +21,10 @@ Dataset yang digunakan adalah **CIFAKE: Real and AI-Generated Synthetic Images**
 ### Gambar AI-Generated (FAKE)
 ![Contoh Gambar Fake](img/0%20(10).jpg)
 
+
+## 📊 Hasil Klasifikasi
+
+Model yang telah dilatih mampu membedakan gambar asli dan gambar hasil generasi AI dengan baik.
+
+![Hasil Prediksi Gambar Real](img/hasil_predikasi_real.png)
+![Hasil Prediksi Gambar Fake](img/hasil_predikasi_fake.png)
