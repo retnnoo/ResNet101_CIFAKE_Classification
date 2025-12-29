@@ -11,4 +11,12 @@ Dataset yang digunakan adalah **CIFAKE: Real and AI-Generated Synthetic Images**
 - Kelas:
   - **REAL**: gambar asli dari dataset CIFAR-10  
   - **FAKE**: gambar sintetis hasil generasi AI
-  - 
+
+
+## Contoh Dataset
+
+### Gambar Asli (REAL)
+![Contoh Gambar Real](assets/real_samples.png)
+
+### Gambar AI-Generated (FAKE)
+![Contoh Gambar Fake](assets/fake_samples.png)
