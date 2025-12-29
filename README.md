@@ -15,11 +15,7 @@ Dataset yang digunakan adalah **CIFAKE: Real and AI-Generated Synthetic Images**
 
 ## Contoh Dataset
 
-### Gambar Asli (REAL)
-![Contoh Gambar Real](img/0000%20(10).jpg)
-
-### Gambar AI-Generated (FAKE)
-![Contoh Gambar Fake](img/0%20(10).jpg)
+![Contoh Gambar Real](img/0000%20(10).jpg) ![Contoh Gambar Fake](img/0%20(10).jpg)
 
 
 ## 📊 Hasil Klasifikasi
